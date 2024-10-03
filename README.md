@@ -12,3 +12,6 @@ Datum a čas provedení změny 2024-10-03, 13:02
 ## Změna provedená na přímo na GitHubu
 Datum a čas provedení změny 2024-10-03, 13:14
 Maxim Maděra
+
+## Změna provedená na přímo na GitHubu
+Datum a čas provedení změny 2024-10-03, 13:17
