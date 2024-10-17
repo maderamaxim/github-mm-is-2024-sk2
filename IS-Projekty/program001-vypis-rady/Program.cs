@@ -9,10 +9,10 @@ class Program {
         string again = "a";
         while(again == "a") {
             //Console.Clear();
-            Console.WriteLine("**************************");
-            Console.WriteLine("******* Výpis řady *******");
-            Console.WriteLine("**************************");
-            Console.WriteLine("****** Tomáš Žižka *******");
+            Console.WriteLine("******************************");
+            Console.WriteLine("******* Název programu *******");
+            Console.WriteLine("******************************");
+            Console.WriteLine("****** Maxim Maděra***********");
             Console.WriteLine("**************************\n\n");
             Console.WriteLine();
 
