@@ -1,0 +1,14 @@
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003b-rovnoramenny-trojuhelnik\bin\Debug\net7.0\program003b-rovnoramenny-trojuhelnik.exe
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003b-rovnoramenny-trojuhelnik\bin\Debug\net7.0\program003b-rovnoramenny-trojuhelnik.deps.json
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003b-rovnoramenny-trojuhelnik\bin\Debug\net7.0\program003b-rovnoramenny-trojuhelnik.runtimeconfig.json
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003b-rovnoramenny-trojuhelnik\bin\Debug\net7.0\program003b-rovnoramenny-trojuhelnik.dll
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003b-rovnoramenny-trojuhelnik\bin\Debug\net7.0\program003b-rovnoramenny-trojuhelnik.pdb
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003b-rovnoramenny-trojuhelnik\obj\Debug\net7.0\program003b-rovnoramenny-trojuhelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003b-rovnoramenny-trojuhelnik\obj\Debug\net7.0\program003b-rovnoramenny-trojuhelnik.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003b-rovnoramenny-trojuhelnik\obj\Debug\net7.0\program003b-rovnoramenny-trojuhelnik.AssemblyInfo.cs
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003b-rovnoramenny-trojuhelnik\obj\Debug\net7.0\program003b-rovnoramenny-trojuhelnik.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003b-rovnoramenny-trojuhelnik\obj\Debug\net7.0\program003b-rovnoramenny-trojuhelnik.dll
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003b-rovnoramenny-trojuhelnik\obj\Debug\net7.0\refint\program003b-rovnoramenny-trojuhelnik.dll
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003b-rovnoramenny-trojuhelnik\obj\Debug\net7.0\program003b-rovnoramenny-trojuhelnik.pdb
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003b-rovnoramenny-trojuhelnik\obj\Debug\net7.0\program003b-rovnoramenny-trojuhelnik.genruntimeconfig.cache
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003b-rovnoramenny-trojuhelnik\obj\Debug\net7.0\ref\program003b-rovnoramenny-trojuhelnik.dll
