@@ -1,0 +1,14 @@
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003c-tvary\bin\Debug\net7.0\program003c-tvary.exe
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003c-tvary\bin\Debug\net7.0\program003c-tvary.deps.json
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003c-tvary\bin\Debug\net7.0\program003c-tvary.runtimeconfig.json
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003c-tvary\bin\Debug\net7.0\program003c-tvary.dll
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003c-tvary\bin\Debug\net7.0\program003c-tvary.pdb
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003c-tvary\obj\Debug\net7.0\program003c-tvary.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003c-tvary\obj\Debug\net7.0\program003c-tvary.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003c-tvary\obj\Debug\net7.0\program003c-tvary.AssemblyInfo.cs
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003c-tvary\obj\Debug\net7.0\program003c-tvary.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003c-tvary\obj\Debug\net7.0\program003c-tvary.dll
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003c-tvary\obj\Debug\net7.0\refint\program003c-tvary.dll
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003c-tvary\obj\Debug\net7.0\program003c-tvary.pdb
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003c-tvary\obj\Debug\net7.0\program003c-tvary.genruntimeconfig.cache
+C:\aaa\IS-2024\github-mm-is-2024-sk2\IS-Projekty\program003c-tvary\obj\Debug\net7.0\ref\program003c-tvary.dll
