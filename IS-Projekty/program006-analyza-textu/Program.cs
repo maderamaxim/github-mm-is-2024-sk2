@@ -20,8 +20,8 @@
             Console.WriteLine(myText.Length);
             Console.WriteLine(myText[myText.Length-1]);
             
-            string samohlasky = "aáeéěiíyýoóuůú";
-            string souhlasky = "bcčdďfghjklmnňpqrřsštťvwxzž";
+            string samohlasky = "aáeéěiíyýoóuůúAÁEÉĚIÍYÝOÓUŮÚ";
+            string souhlasky = "bcčdďfghjklmnňpqrřsštťvwxzžBCČDĎFGHJKLMNŇPQRŘSŠTŤVWXZŽ";
             string cislice = "0123456789";
 
             int pocetSamohlsek=0;
