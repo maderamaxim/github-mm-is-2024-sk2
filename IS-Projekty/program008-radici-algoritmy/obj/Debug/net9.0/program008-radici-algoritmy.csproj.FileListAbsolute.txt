@@ -1,0 +1,15 @@
+C:\Users\maxim\Desktop\github-mm-is-2024-sk2\IS-Projekty\program008-radici-algoritmy\bin\Debug\net9.0\program008-radici-algoritmy.exe
+C:\Users\maxim\Desktop\github-mm-is-2024-sk2\IS-Projekty\program008-radici-algoritmy\bin\Debug\net9.0\program008-radici-algoritmy.deps.json
+C:\Users\maxim\Desktop\github-mm-is-2024-sk2\IS-Projekty\program008-radici-algoritmy\bin\Debug\net9.0\program008-radici-algoritmy.runtimeconfig.json
+C:\Users\maxim\Desktop\github-mm-is-2024-sk2\IS-Projekty\program008-radici-algoritmy\bin\Debug\net9.0\program008-radici-algoritmy.dll
+C:\Users\maxim\Desktop\github-mm-is-2024-sk2\IS-Projekty\program008-radici-algoritmy\bin\Debug\net9.0\program008-radici-algoritmy.pdb
+C:\Users\maxim\Desktop\github-mm-is-2024-sk2\IS-Projekty\program008-radici-algoritmy\obj\Debug\net9.0\program008-radici-algoritmy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\Desktop\github-mm-is-2024-sk2\IS-Projekty\program008-radici-algoritmy\obj\Debug\net9.0\program008-radici-algoritmy.AssemblyInfoInputs.cache
+C:\Users\maxim\Desktop\github-mm-is-2024-sk2\IS-Projekty\program008-radici-algoritmy\obj\Debug\net9.0\program008-radici-algoritmy.AssemblyInfo.cs
+C:\Users\maxim\Desktop\github-mm-is-2024-sk2\IS-Projekty\program008-radici-algoritmy\obj\Debug\net9.0\program008-radici-algoritmy.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\github-mm-is-2024-sk2\IS-Projekty\program008-radici-algoritmy\obj\Debug\net9.0\program008-radici-algoritmy.sourcelink.json
+C:\Users\maxim\Desktop\github-mm-is-2024-sk2\IS-Projekty\program008-radici-algoritmy\obj\Debug\net9.0\program008-radici-algoritmy.dll
+C:\Users\maxim\Desktop\github-mm-is-2024-sk2\IS-Projekty\program008-radici-algoritmy\obj\Debug\net9.0\refint\program008-radici-algoritmy.dll
+C:\Users\maxim\Desktop\github-mm-is-2024-sk2\IS-Projekty\program008-radici-algoritmy\obj\Debug\net9.0\program008-radici-algoritmy.pdb
+C:\Users\maxim\Desktop\github-mm-is-2024-sk2\IS-Projekty\program008-radici-algoritmy\obj\Debug\net9.0\program008-radici-algoritmy.genruntimeconfig.cache
+C:\Users\maxim\Desktop\github-mm-is-2024-sk2\IS-Projekty\program008-radici-algoritmy\obj\Debug\net9.0\ref\program008-radici-algoritmy.dll
