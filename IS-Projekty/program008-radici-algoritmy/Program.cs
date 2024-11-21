@@ -180,4 +180,4 @@ string again = "a";
     // Opakování programu
     Console.WriteLine("\n\nPro opakování programu stiskněte klávesu a");
     again = Console.ReadLine();
-    }﻿
+    }
