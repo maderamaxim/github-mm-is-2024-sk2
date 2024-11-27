@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxim\\Desktop\\TUL\\Informace a systémy\\github-mm-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
+    "C:\\Users\\maxim\\Desktop\\TUL\\Informace a systémy\\github-mm-is-2024-sk2\\IS-Projekty\\program011b-vypocet-ln2\\program011b-vypocet-ln2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxim\\Desktop\\TUL\\Informace a systémy\\github-mm-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj": {
+    "C:\\Users\\maxim\\Desktop\\TUL\\Informace a systémy\\github-mm-is-2024-sk2\\IS-Projekty\\program011b-vypocet-ln2\\program011b-vypocet-ln2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxim\\Desktop\\TUL\\Informace a systémy\\github-mm-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
-        "projectName": "program001-vypis-rady",
-        "projectPath": "C:\\Users\\maxim\\Desktop\\TUL\\Informace a systémy\\github-mm-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectUniqueName": "C:\\Users\\maxim\\Desktop\\TUL\\Informace a systémy\\github-mm-is-2024-sk2\\IS-Projekty\\program011b-vypocet-ln2\\program011b-vypocet-ln2.csproj",
+        "projectName": "program011b-vypocet-ln2",
+        "projectPath": "C:\\Users\\maxim\\Desktop\\TUL\\Informace a systémy\\github-mm-is-2024-sk2\\IS-Projekty\\program011b-vypocet-ln2\\program011b-vypocet-ln2.csproj",
         "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxim\\Desktop\\TUL\\Informace a systémy\\github-mm-is-2024-sk2\\IS-Projekty\\program001-vypis-rady\\obj\\",
+        "outputPath": "C:\\Users\\maxim\\Desktop\\TUL\\Informace a systémy\\github-mm-is-2024-sk2\\IS-Projekty\\program011b-vypocet-ln2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxim\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net9.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

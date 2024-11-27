@@ -1,0 +1,15 @@
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program011b-vypocet-ln2\bin\Debug\net9.0\program011b-vypocet-ln2.exe
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program011b-vypocet-ln2\bin\Debug\net9.0\program011b-vypocet-ln2.deps.json
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program011b-vypocet-ln2\bin\Debug\net9.0\program011b-vypocet-ln2.runtimeconfig.json
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program011b-vypocet-ln2\bin\Debug\net9.0\program011b-vypocet-ln2.dll
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program011b-vypocet-ln2\bin\Debug\net9.0\program011b-vypocet-ln2.pdb
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\program011b-vypocet-ln2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\program011b-vypocet-ln2.AssemblyInfoInputs.cache
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\program011b-vypocet-ln2.AssemblyInfo.cs
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\program011b-vypocet-ln2.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\program011b-vypocet-ln2.sourcelink.json
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\program011b-vypocet-ln2.dll
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\refint\program011b-vypocet-ln2.dll
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\program011b-vypocet-ln2.pdb
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\program011b-vypocet-ln2.genruntimeconfig.cache
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\ref\program011b-vypocet-ln2.dll
