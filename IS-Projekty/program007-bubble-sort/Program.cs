@@ -70,6 +70,37 @@ string again = "a";
                 }
             }
 
+
+
+        for(int i = 0+ i < n+ i++){
+            for(int j = 0+ j < n-i-1; j++){
+                if(myArray[j]<myArray[j+1]){
+                    int tmp = myArray[j];
+                    myArray[j] = myArray[j+1];
+                    myArray[j+1] = tmp;
+                }
+            }
+        }
+
+        Console.WriteLine("Řada seřazená bubble sortem: ");
+        for(int i = 0; i < n; i++){
+            Console.Write("{0}; ", myArray[i]);
+
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             myStopwatch.Stop();
 
             Console.WriteLine();

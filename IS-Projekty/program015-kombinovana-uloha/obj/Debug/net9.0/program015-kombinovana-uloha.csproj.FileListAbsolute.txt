@@ -1,0 +1,15 @@
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program015-kombinovana-uloha\bin\Debug\net9.0\program015-kombinovana-uloha.exe
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program015-kombinovana-uloha\bin\Debug\net9.0\program015-kombinovana-uloha.deps.json
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program015-kombinovana-uloha\bin\Debug\net9.0\program015-kombinovana-uloha.runtimeconfig.json
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program015-kombinovana-uloha\bin\Debug\net9.0\program015-kombinovana-uloha.dll
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program015-kombinovana-uloha\bin\Debug\net9.0\program015-kombinovana-uloha.pdb
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program015-kombinovana-uloha\obj\Debug\net9.0\program015-kombinovana-uloha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program015-kombinovana-uloha\obj\Debug\net9.0\program015-kombinovana-uloha.AssemblyInfoInputs.cache
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program015-kombinovana-uloha\obj\Debug\net9.0\program015-kombinovana-uloha.AssemblyInfo.cs
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program015-kombinovana-uloha\obj\Debug\net9.0\program015-kombinovana-uloha.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program015-kombinovana-uloha\obj\Debug\net9.0\program015-kombinovana-uloha.sourcelink.json
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program015-kombinovana-uloha\obj\Debug\net9.0\program015-kombinovana-uloha.dll
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program015-kombinovana-uloha\obj\Debug\net9.0\refint\program015-kombinovana-uloha.dll
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program015-kombinovana-uloha\obj\Debug\net9.0\program015-kombinovana-uloha.pdb
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program015-kombinovana-uloha\obj\Debug\net9.0\program015-kombinovana-uloha.genruntimeconfig.cache
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program015-kombinovana-uloha\obj\Debug\net9.0\ref\program015-kombinovana-uloha.dll

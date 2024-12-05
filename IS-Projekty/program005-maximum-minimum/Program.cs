@@ -92,12 +92,12 @@
 
             Console.Write("Pozice všech maxim: ");
             foreach (var pos in positionsMax) {
-                Console.Write("{0}", pos);
+                Console.Write("{0}; ", pos);
             }
             Console.WriteLine()
             Console.Write("Pozice všech minim: ");
             foreach (var pos in positionsMin) {
-                Console.Write("{0}, pos);
+                Console.Write("{0}; ", pos);
             }
 
             // Opakování programu
