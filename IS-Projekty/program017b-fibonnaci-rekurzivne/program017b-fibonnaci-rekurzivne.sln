@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "program017b-fibonnaci-rekurzivne", "program017b-fibonnaci-rekurzivne.csproj", "{ACE3F0DC-1CB7-4662-A203-4AAADA1A6747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACE3F0DC-1CB7-4662-A203-4AAADA1A6747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE3F0DC-1CB7-4662-A203-4AAADA1A6747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE3F0DC-1CB7-4662-A203-4AAADA1A6747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE3F0DC-1CB7-4662-A203-4AAADA1A6747}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6CD7A6E-50CD-4889-855F-3B7313A037BD}
+	EndGlobalSection
+EndGlobal

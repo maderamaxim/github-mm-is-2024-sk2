@@ -1,0 +1,15 @@
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program017b-fibonnaci-rekurzivne\bin\Debug\net9.0\program017b-fibonnaci-rekurzivne.exe
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program017b-fibonnaci-rekurzivne\bin\Debug\net9.0\program017b-fibonnaci-rekurzivne.deps.json
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program017b-fibonnaci-rekurzivne\bin\Debug\net9.0\program017b-fibonnaci-rekurzivne.runtimeconfig.json
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program017b-fibonnaci-rekurzivne\bin\Debug\net9.0\program017b-fibonnaci-rekurzivne.dll
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program017b-fibonnaci-rekurzivne\bin\Debug\net9.0\program017b-fibonnaci-rekurzivne.pdb
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program017b-fibonnaci-rekurzivne\obj\Debug\net9.0\program017b-fibonnaci-rekurzivne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program017b-fibonnaci-rekurzivne\obj\Debug\net9.0\program017b-fibonnaci-rekurzivne.AssemblyInfoInputs.cache
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program017b-fibonnaci-rekurzivne\obj\Debug\net9.0\program017b-fibonnaci-rekurzivne.AssemblyInfo.cs
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program017b-fibonnaci-rekurzivne\obj\Debug\net9.0\program017b-fibonnaci-rekurzivne.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program017b-fibonnaci-rekurzivne\obj\Debug\net9.0\program017b-fibonnaci-rekurzivne.sourcelink.json
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program017b-fibonnaci-rekurzivne\obj\Debug\net9.0\program017b-fibonnaci-rekurzivne.dll
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program017b-fibonnaci-rekurzivne\obj\Debug\net9.0\refint\program017b-fibonnaci-rekurzivne.dll
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program017b-fibonnaci-rekurzivne\obj\Debug\net9.0\program017b-fibonnaci-rekurzivne.pdb
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program017b-fibonnaci-rekurzivne\obj\Debug\net9.0\program017b-fibonnaci-rekurzivne.genruntimeconfig.cache
+C:\Users\maxim\Desktop\TUL\Informace a systémy\github-mm-is-2024-sk2\IS-Projekty\program017b-fibonnaci-rekurzivne\obj\Debug\net9.0\ref\program017b-fibonnaci-rekurzivne.dll
